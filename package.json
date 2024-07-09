@@ -1,0 +1,11 @@
+{
+  "name": "yatemp",
+  "version": "1.0.0",
+  "description": "Yet another HTML templating utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacobleclair",
+  "license": "MIT"
+}
